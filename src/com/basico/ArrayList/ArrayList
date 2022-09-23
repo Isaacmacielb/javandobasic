@@ -1,0 +1,1 @@
+o java.util.ArrayList é realmente um guardador de referências e usa um array internamente.

@@ -1,0 +1,13 @@
+Só pode ter uma declaração package por arquivo
+
+A declaração do import é opcional
+
+É possível repetir a declaração import para importações de packages diferentes
+
+A definição da classe sempre deve vir por último (após package e import)
+
+A palavra chave package deve ser a primeira declaração no código fonte Java.
+
+Packages servem para organização e agrupar as classes e interfaces.
+
+As package possui todos os nomes dos diretórios separado pelo caracter . (ponto).

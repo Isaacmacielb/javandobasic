@@ -1,0 +1,14 @@
+Um array é um objeto.
+Arrays são colchetes ([]) associados a algum tipo de dados
+Variavel do tipo int e depois o nome da variavel
+
+definimos o tamanho na hora de criar o array.
+
+Arraylist:
+  Guarda referências.
+  É do pacote java.util
+  Usa internamente um array
+  ArrayList lista = new ArrayList(); sintaxe do arraylist
+
+
+

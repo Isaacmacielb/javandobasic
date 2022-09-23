@@ -1,0 +1,40 @@
+
+
+O que é public static void main(String[]
+ é um modificador de acesso de método.
+public .
+Usando este modificador o método pode ser acessado por qualquer classe dentro (e fora) do projeto.
+
+static .
+Define o método como estático, isso quer dizer que a classe não precisa ser instanciada para chamar este método.
+
+void .
+É tipo de retorno do método. Este tipo de retorno significa vazio/nada, o método não dá retorno nenhum
+
+
+main .
+É o nome do método  Todo e qualquer método precisa ter um nome
+Toda classe que for chamada na linha de comando tem que ter esse método main.
+
+
+
+(String[] args)1 .
+Define que o método deve receber como parâmetro um array de String (nomeado args)
+Obs: são 4 modificadores , public , protected, private e o default ( padrão)
+
+Quais as diferenças entre enum e interface?
+Enum : ão usados para a criação de estruturas de dados organizados, podendo agrupar valores que tenham o mesmo sentido para dentro dessa estrutura.
+Interface: podemos especificar quais métodos as classes que implementam esta interface são obrigados a implementar.
+
+Classe .
+Uma classe é a forma no Java onde definimos os atributos e comportamentos de um objeto.
+
+atalhos no intellij:
+psvm: Criar método main
+main: System.out.println()
+
+Os métodos estáticos, quando declarados públicos, podem ser acessados diretamente a partir da classe
+sem a necessidade de declaração de objetos. Isso quer dizer que um método, para ser acessível sem a necessidade de existir um objeto da classe,
+além de ser estático, também deve ser público.
+
+()se trata de um método

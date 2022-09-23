@@ -1,0 +1,16 @@
+1 -Um array é uma estrutura de dados e serve para guardar elementos (valores primitivos ou referências)
+2 -Arrays usam colchetes ([]) sintaticamente
+3 -Arrays têm um tamanho fixo!
+4 -Um array também é um objeto!
+5 -Arrays são zero-based (o primeiro elemento se encontra na posição 0)
+6 -Um array é sempre inicializado com os valores padrões.
+7 -Ao acessar uma posição inválida recebemos a exceção ArrayIndexOutOfBoundException
+8 -Arrays possuem um atributo length para saber o tamanho
+9 -A forma literal de criar uma Array, com o uso de chaves {}.
+
+Os quatro pontos importantes sobre arrays são:
+
+Declarar
+Inicializar
+Acessar
+Percorrer

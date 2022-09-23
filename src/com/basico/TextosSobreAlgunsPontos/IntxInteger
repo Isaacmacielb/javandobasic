@@ -1,0 +1,3 @@
+Integer é um objeto, e int é o valor primitivo dele.
+
+a classe Integer é chamada de wrapper class, por que ele encapsula uma propriedade de valor primitivo INT

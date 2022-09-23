@@ -1,3 +1,0 @@
-O ArrayList, como diz o nome, internamente usa um array para guardar os elementos.
-
-Já o LinkedList possui uma grande vantagem aqui. Ele utiliza a estrutura de dados chamada lista ligada, e é bastante rápido para adicionar e remover elementos na cabeça da lista, isto é, na primeira posição.

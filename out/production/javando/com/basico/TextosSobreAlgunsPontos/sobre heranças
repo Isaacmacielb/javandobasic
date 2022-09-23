@@ -1,5 +1,0 @@
-Em Java, podemos usar herança simples entre classes com o extends.
-A nomenclatura usada é de classe mãe e classe filha, ou superclasse e subclasse.
-
-Herança entre classes permite que um código seja reaproveitado.
-de maneira que a classe filha reutilize o código da parte mãe
